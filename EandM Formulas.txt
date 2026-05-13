@@ -1,0 +1,155 @@
+﻿--------------------------------------------
+ELECTRICITY & MAGNETISM
+--------------------------------------------
+
+
+--- CHARGE ---
+Q = ne
+e = 1.60e-19 C
+Law of Charges:
+  Opposite signs -> attract
+  Same signs -> repel
+
+
+--- ELECTRIC FIELD ---
+E_pt = kQ/r^2
+k = 1/(4*pi*e0)
+E_cont = k * int(dq/r^2)  [cont. charge dist]
+
+
+E field is zero inside conductor
+
+
+Charge Densities:
+  lambda = Q/L = dq/dL    [C/m, linear]
+  sigma = Q/A = dq/dA     [C/m^2, surface]
+  rho = Q/V = dq/dV       [C/m^3, volumetric]
+
+
+--- GAUSS'S LAW ---
+Phi_E = closed_int(E dA) = q_enc/e0
+Phi_E = E*A*cos(theta)    [flat, uniform E]
+  If q_enc = 0 -> Phi_E = 0
+
+
+Capacitance cylinder = (2piLemf_o)/ln(b/a)
+B is radius of gaussian surface
+A is radius of cylinder
+
+
+Capacitance Sphere = (4piemf_o)(a)(b)a/(b-a)
+B is larger radius
+A is small radius
+
+
+Isolated Sphere Capacitance = 4piemf_o(a)
+A is radius
+
+
+--- ELECTRIC POTENTIAL ---
+dV_uniform = -E*d         [d parallel to E]
+
+
+--- CAPACITORS ---
+Uc = (1/2)Q*dV = (1/2)C*dV^2 = Q^2/(2C)
+  [3rd form Q^2/2C NOT on sheet]
+
+
+Series:   1/Ceq = sum(1/Cn)  -> C decreases
+Parallel: Ceq = sum(Cn)      -> C increases
+
+
+–DIELECTRIC–
+Insulating material decreasing capacitance
+Creates an induced electric field pointing in the opposite direction
+
+
+--- RESISTORS ---
+Series:   Req = sum(Rn)      -> R increases
+Parallel: 1/Req = sum(1/Rn)  -> R decreases
+
+
+Ammeter ideal zero resistance, determines current, voltage zero
+Voltmeter infinite resistance, determines voltage, current zero
+
+
+–TERMINAL VOLTAGE–
+delta(v) = emf - Ir
+
+
+--- POWER ---
+P = I*dV = I^2*R = dV^2/R
+  [only P=I*dV on sheet]
+
+
+--- RC CIRCUITS ---
+Tau_RC = RC               [time constant]
+63.2% change per 1 time constant
+
+
+Charging:
+  q(t) = e*C*(1 - e^(-t/RC))
+  i(t) = (e/R)*e^(-t/RC)
+Limits:
+  t=0: Qi=0, Ii=e/R
+  t=inf: Qf=eC, If=0
+
+
+i_1=i_total(R_1/(R_1+R_2))
+v_1=v_total(R_1/(R_1+R_2))
+
+
+--- LR CIRCUITS ---
+Tau_LR = L/R              [time constant]
+63.2% change per 1 time constant
+
+
+Building:
+  I(t) = (e/R)*(1 - e^(-Rt/L))
+  dI/dt(t) = (e/L)*e^(-Rt/L)
+Limits:
+  t=0: Ii=0, dI/dt=e/L
+  t=inf: If=e/R, Tau_LR=L/R
+
+
+---Biot savert ---
+Long straight wire = mew_0(i)/(2piR)
+Circular arc = mew_0(i)(theta)/(4piR)
+
+
+--- AMPERE'S LAW —
+closed_int(B ds) = mu0 * I_in
+Outside straight wire = mew_0(i)/(2piR)
+Inside straight wire = mew_0(i)(r)/2piR^2)
+R = actual radius
+r = gaussian radius
+Solenoid =mew_0(i)n
+n=N/L
+
+
+--- MOTIONAL EMF ---
+emf = v*B*L
+  [assumes v perp to B; L = conductor length]
+
+
+--- INDUCTANCE ---
+L_solenoid = mu0*N^2*A / l
+Depends on: N, A, l, mu
+Does NOT depend on current!
+  (like R not depending on I,
+   C not depending on Q or dV)
+
+
+Self inductance emf = -Ldi/dt
+Mutual inductance emf = -(inductance of one coil)di/dt
+
+
+--- LC CIRCUITS ---
+w_LC = 1/sqrt(LC) = 2*pi*f
+T_LC = 2*pi*sqrt(LC)
+Energy oscillates: E-field (cap) <-> B-field (ind)
+
+
+============================================
+END OF DOCUMENT
+============================================
