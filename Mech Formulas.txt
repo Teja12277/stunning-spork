@@ -1,0 +1,84 @@
+﻿============================================
+AP PHYSICS C - FORMULAS TO MEMORIZE
+(NOT ON EQUATION SHEET)
+============================================
+
+
+--------------------------------------------
+MECHANICS
+--------------------------------------------
+
+
+--- KINEMATICS ---
+dx = (1/2)(vf + vi)(dt)   [4th UAM eq]
+
+
+--- FORCES ---
+Fg = mg
+Fg_perp = mg*cos(theta)   [perp to incline]
+Fg_para = mg*sin(theta)   [para to incline]
+Coeff of friction range: 0 to 2
+mg = bv_terminal = m(dv/dt) at terminal velocity
+Mg - bv = m(dv/dt)
+derive to the equation v=v_terminal(1-e^(-bt/m))
+
+
+--- ENERGY & WORK ---
+dE_sys = sum(T)           [energy transfer]
+sum(W) = dKE              [always true]
+W_friction = dME - mechanical energy
+W = Fdcos(theta)
+MEi = MEf                 [no noncons. work]
+Fx = -dU/dx               [conservative force]
+P = F*v
+
+
+--- MOMENTUM ---
+sum(p_i) = sum(p_f)         [when Fext = 0]
+Elastic - bounce - conserve energy
+Inelastic - stick - nonconservative
+
+
+--- ANGULAR MOMENTUM ---
+sum(Li) = sum(Lf)         [when Tau_ext = 0]
+
+
+--- CENTER OF MASS ---
+r_cm = (1/m_total) * int(r dm)
+rho = m/V                 [vol. mass density]
+lambda = m/L              [linear mass density]
+
+
+--- ROTATION ---
+s = r*dTheta              [arc length]
+at = r*alpha              [tangential accel]
+vcm = R*omega             [rolling w/o slip]
+acm = R*alpha             [rolling w/o slip]
+1 rev = 360 deg = 2pi rad
+
+
+Uniformly Angular Accel Motion:
+  wf^2 = wi^2 + 2*alpha*dTheta
+  dTheta = (1/2)(wi + wf)(dt)
+
+
+--- MOMENT OF INERTIA ---
+I = Icm + mD^2            [parallel axis theorem; distance from first axis to new axis]
+Hoop = mR^2
+Center Rod = mL^2/12
+End of Rod = 2mL^2/3
+Solid Cylinder = mR^2/2
+
+
+--- SIMPLE HARMONIC MOTION ---
+d^2x/dt^2 = -w^2 * x     [condition for SHM]
+v_max = A*omega
+a_max = A*omega^2
+A = -w^2 * x or -w^2 * theta
+Physical pendulum: pendulum with rod instead of string
+
+
+— other —
+v_escape = sqrt(2Gm_earth/R_earth)
+T^2 = R^3 -> derive to T^2 = R^3(4π^2)/(Gm)
+F_g inside shell is zero, f_g in solid sphere dependent on mass which has radius less than point

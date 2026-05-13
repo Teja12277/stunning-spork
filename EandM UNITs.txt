@@ -1,0 +1,66 @@
+﻿PART II — Electricity & Magnetism
+
+
+1. Electrostatics & Electric Fields
+
+
+Electric Charge  (q, Q) | coulomb  (C)
+Elementary Charge  (e) | coulomb  (C)
+Coulomb's Constant  (k, k_e) | N·m²/C²
+Electric Force  (F_E) | newton  (N)
+Electric Field  (E) | newton per coulomb  (N/C = V/m)
+Electric Flux  (Φ_E) | newton·meter squared per coulomb  (N·m²/C)
+Permittivity of Free Space  (ε₀) | C²/(N·m²) = F/m
+Electric Potential  (V) | volt  (V = J/C)
+Electric Potential Energy  (U_E) | joule  (J)
+Linear Charge Density  (λ) | coulomb per meter  (C/m)
+Surface Charge Density  (σ) | coulomb per meter squared  (C/m²)
+Volume Charge Density  (ρ) | coulomb per meter cubed  (C/m³)
+
+
+2. Capacitance & Dielectrics
+
+
+Capacitance  (C) | farad  (F = C/V)
+Dielectric Constant  (κ, k) | dimensionless
+Energy in Capacitor  (U_C) | joule  (J)
+Electric Field in Capacitor  (E) | volt per meter  (V/m)
+
+
+3. Current, Resistance & DC Circuits
+
+
+Electric Current  (I) | ampere  (A = C/s)
+Current Density  (J) | ampere per meter squared  (A/m²)
+Resistance  (R) | ohm  (Ω = V/A)
+Resistivity  (ρ) | ohm·meter  (Ω·m)
+Conductivity  (σ) | siemens per meter  (S/m = 1/(Ω·m))
+Electromotive Force  (EMF, ε) | volt  (V)
+Terminal Voltage  (V_T) | volt  (V)
+Internal Resistance  (r) | ohm  (Ω)
+Power  (P) | watt  (W = J/s)
+Energy  (E) | joule  (J)
+
+
+4. Magnetism & Magnetic Forces
+
+
+Magnetic Field  (B) | tesla  (T = kg/(A·s²))
+Magnetic Flux  (Φ_B) | weber  (Wb = T·m²)
+Magnetic Force on Charge  (F_B) | newton  (N)
+Magnetic Force on Wire  (F) | newton  (N)
+Permeability of Free Space  (μ₀) | T·m/A
+Biot-Savart Constant  (μ₀/4π) | T·m/A
+Magnetic Dipole Moment  (m, μ) | A·m² or J/T
+
+
+5. Electromagnetic Induction & Inductance
+
+
+Induced EMF  (ε) | volt  (V)
+Inductance  (L) | henry  (H = V·s/A)
+Mutual Inductance  (M) | henry  (H)
+Energy in Inductor  (U_L) | joule  (J)
+Time Constant — RL  (τ) | second  (s)
+Time Constant — RC  (τ) | second  (s)
+Resonant Frequency  (ω₀) | radian per second  (rad/s)

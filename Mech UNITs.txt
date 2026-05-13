@@ -1,0 +1,81 @@
+﻿AP Physics C
+
+
+Complete Units Reference Guide
+
+
+PART I — Mechanics
+
+
+1. Kinematics
+
+
+Displacement  (x, Δx, s) | meter  (m)
+Distance  (d) | meter  (m)
+Time  (t) | second  (s)
+Velocity  (v) | meter per second  (m/s)
+Speed  (v) | meter per second  (m/s)
+Acceleration  (a) | meter per second squared  (m/s²)
+Angular Displacement  (θ) | radian  (rad)
+Angular Velocity  (ω) | radian per second  (rad/s)
+Angular Acceleration  (α) | radian per second squared  (rad/s²)
+
+
+2. Dynamics (Newton's Laws & Forces)
+
+
+Force  (F) | newton  (N = kg·m/s²)
+Mass  (m) | kilogram  (kg)
+Weight  (W, F_g) | newton  (N)
+Friction Force  (f) | newton  (N)
+Normal Force  (N, F_N) | newton  (N)
+Tension  (T) | newton  (N)
+Spring Force  (F_s) | newton  (N)
+Spring Constant  (k) | newton per meter  (N/m)
+Torque  (τ) | newton-meter  (N·m)
+Moment of Inertia  (I) | kilogram·meter squared  (kg·m²)
+Coefficient of Friction  (μ) | dimensionless
+
+
+3. Work, Energy & Power
+
+
+Work  (W) | joule  (J = N·m)
+Kinetic Energy  (KE, K) | joule  (J)
+Potential Energy  (PE, U) | joule  (J)
+Mechanical Energy  (E) | joule  (J)
+Power  (P) | watt  (W = J/s)
+Gravitational PE  (U_g) | joule  (J)
+Elastic PE  (U_s) | joule  (J)
+
+
+4. Momentum & Impulse
+
+
+Linear Momentum  (p) | kilogram·meter per second  (kg·m/s)
+Impulse  (J, I) | newton·second  (N·s = kg·m/s)
+Angular Momentum  (L) | kilogram·meter squared per second  (kg·m²/s)
+Coefficient of Restitution  (e) | dimensionless
+
+
+5. Gravitation
+
+
+Gravitational Constant  (G) | N·m²/kg²
+Gravitational Field  (g) | meter per second squared  (m/s²)
+Gravitational Force  (F_g) | newton  (N)
+Gravitational PE  (U_g) | joule  (J)
+Orbital Period  (T) | second  (s)
+Orbital Radius  (r) | meter  (m)
+Escape Velocity  (v_e) | meter per second  (m/s)
+
+
+6. Simple Harmonic Motion & Oscillations
+
+
+Period  (T) | second  (s)
+Frequency  (f) | hertz  (Hz = 1/s)
+Angular Frequency  (ω) | radian per second  (rad/s)
+Amplitude  (A) | meter  (m)
+Phase Constant  (φ) | radian  (rad)
+Damping Coefficient  (b) | kg/s
